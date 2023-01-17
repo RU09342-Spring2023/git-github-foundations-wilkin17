@@ -1,6 +1,7 @@
 # :wave: The Basics of GitHub 
 
 ## Name: Luke Wilkins
+## Spring Semester 2023
 
 ## 🤓 Course overview and learning outcomes 
 
